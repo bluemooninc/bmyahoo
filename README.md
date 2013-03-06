@@ -5,11 +5,11 @@ Yahoo Yconnect login using Open ID (OAuth2.0)
 
 B.M.Yahoo
 
-**What's this?
+##What's this?
  This module can be login to XOOPS Cube 2.2(or Later) Using Yahoo! Japan ID.
  This method using OAuth 2.0 OpenID library
 
-**How?
+##How?
  1:Get AppID/secret on http://developer.yahoo.co.jp
  2:Make your Yahoo App API on Yahoo Developper Network
  3:Set App name,Site URL and Call back URL (such like below)

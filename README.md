@@ -1,3 +1,4 @@
+=======
 bmyahoo
 =======
 
@@ -18,3 +19,4 @@ B.M.Yahoo
    CallBack URL : https://www.xoopsec.com/modules/bmyahoo/?action=callback
 
  4:Install B.M.Yahoo on your site and set AppID/secret at module control panel.
+
